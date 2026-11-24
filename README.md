@@ -55,7 +55,7 @@ Download `tableau/flipkart_product_review_dashboard.twbx` and open it in Tableau
 
 ## Related project
 
-The [Sports Hall Event MongoDB project](https://github.com/Samadnoman/sports-hall-events-mongodb-part1) was completed for the same module.
+The [Sports Hall Event MongoDB project](https://github.com/Samadnoman/mongodb-atlas-event-database) was completed for the same module.
 
 ## Data source and licence
 
